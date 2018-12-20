@@ -1,0 +1,27 @@
+{
+    "Models":[
+        {
+            "DllToOpen":"CryptCalcs",
+            "SSDllVersion":"4.2.1",
+            "SSDllOperative":1,
+            "SSCopyCodeName":"SSCopy.cs",
+            "SSCopyIsCut":false,
+            "SSCopyIsCopy":true
+        }
+    ],
+    "Information":[
+        {
+            "author":"asier",
+            "company":"asiersoinc",
+            "urls":"{args[0],args[1]}",
+            "product":"SSCopy",
+            "package":"com.asiersoinc.sscopy"
+        }
+    ],
+    "Arguments":[
+        {
+            "UrlData":"SSCopy.exe/args[0]",
+            "SaveFile":"SSCopy.exe/args[1]"
+        }
+    ]
+}
