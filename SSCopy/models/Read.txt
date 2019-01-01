@@ -1,0 +1,25 @@
+
+                             *Sintaxis: args[0,1,2,3]*
+
+          SSCopy + downloadFileURL + FileToSave + RepositoryToDuplicate + structures
+
+
+                        downloadFileURL: help {Show Help}
+                        downloadFileURL: [UrlName] {Open URL}
+
+                        FileToSave: [FileName] {Create Files}
+                           FileToSave: null {OnlyRead}
+
+                        
+          RepositoryToDuplicate: [ReposName] {Duplicate DFU into Github Repository(Experimental)}
+
+                         structures: -a {Copy Simulated Web}
+                          structures: -b {Copy and Execute}
+                          structures: -c {Execute and Delete}
+                          structures: null {Copy Normaly}
+
+                          
+
+            -a ModeUse: Copy files of structures folder and paste it in SSCopy folder
+                      GitPath:"C:/Program Files/Git/git-bash.exe"
+                             
