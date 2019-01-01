@@ -1,0 +1,13 @@
+echo > background.png
+echo > code.js
+echo > color.css
+echo > controller.js
+echo > data.js
+echo > data.sql
+echo > icon.ico
+echo > icon.png
+echo > index.php
+echo > main.css
+echo > models.js
+echo > server.sql
+echo > skin.css
