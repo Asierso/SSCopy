@@ -1,9 +1,9 @@
 {
     "Models":[
         {
-            "DllToOpen":"CryptCalcs",
-            "SSDllVersion":"4.2.1",
-            "SSDllOperative":1,
+            "Old_DllToOpen":"CryptCalcs",
+            "Old_SSDllVersion":"4.2.1",
+            "Old_SSDllOperative":0,
             "SSCopyCodeName":"SSCopy.cs",
             "SSCopyIsCut":false,
             "SSCopyIsCopy":true
@@ -22,6 +22,8 @@
         {
             "UrlData":"SSCopy.exe/args[0]",
             "SaveFile":"SSCopy.exe/args[1]"
+            "Beta_Repository":"SSCopy.exe/args[2]"
+            "FunctionalMode":"SSCopy.exe/args[3]"
         }
     ]
 }
