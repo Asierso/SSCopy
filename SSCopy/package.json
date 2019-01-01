@@ -21,8 +21,8 @@
     "Arguments":[
         {
             "UrlData":"SSCopy.exe/args[0]",
-            "SaveFile":"SSCopy.exe/args[1]"
-            "Beta_Repository":"SSCopy.exe/args[2]"
+            "SaveFile":"SSCopy.exe/args[1]",
+            "Beta_Repository":"SSCopy.exe/args[2]",
             "FunctionalMode":"SSCopy.exe/args[3]"
         }
     ]
